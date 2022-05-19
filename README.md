@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aafridah
-- 👀 I’m interested in Wandering free through forests
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning .net core
 - 💞️ I’m looking to collaborate on anything interesting 
 - 📫 How to reach me 🤭 dead end 
