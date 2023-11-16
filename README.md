@@ -29,8 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 - :mailbox: How to reach me: https://www.linkedin.com/in/aafridah-manzoor-4189911b1
-
+  
 - :telephone_receiver: My PortFolio: https://aafridah.github.io/portfolio/
+  
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
